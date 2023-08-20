@@ -1,5 +1,5 @@
 {
-  "name": "@comunica/query-sparql-link-traversal",
+  "name": "@comunica/query-sparql-link-traversal-custom",
   "version": "0.2.0",
   "description": "A Comunica engine for link traversal-based query evaluation",
   "lsd:module": true,
@@ -54,6 +54,8 @@
     "@comunica/actor-optimize-query-operation-set-seed-sources-quadpattern-iris": "^0.2.0",
     "@comunica/actor-rdf-join-entries-sort-traversal-zero-knowledge": "^0.2.0",
     "@comunica/actor-rdf-metadata-extract-traverse": "^0.2.0",
+    "@comunica/actor-rdf-resolve-hypermedia-links-stad-gent-replace-id": "^1.0.0",
+    "@comunica/actor-rdf-resolve-hypermedia-links-getty-jsonld-extension": "^1.0.0",
     "@comunica/actor-rdf-resolve-hypermedia-links-queue-wrapper-limit-count": "^0.2.0",
     "@comunica/actor-rdf-resolve-hypermedia-links-queue-wrapper-limit-depth": "^0.2.0",
     "@comunica/actor-rdf-resolve-hypermedia-links-traverse": "^0.2.0",
