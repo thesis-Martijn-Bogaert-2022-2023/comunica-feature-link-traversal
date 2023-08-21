@@ -1,5 +1,7 @@
 import { Bus } from '@comunica/core';
-import { ActorRdfResolveHypermediaLinksGettyJsonldExtension } from '../lib/ActorRdfResolveHypermediaLinksGettyJsonldExtension';
+import {
+  ActorRdfResolveHypermediaLinksGettyJsonldExtension,
+} from '../lib/ActorRdfResolveHypermediaLinksGettyJsonldExtension';
 
 describe('ActorRdfResolveHypermediaLinksGettyJsonldExtension', () => {
   let bus: any;

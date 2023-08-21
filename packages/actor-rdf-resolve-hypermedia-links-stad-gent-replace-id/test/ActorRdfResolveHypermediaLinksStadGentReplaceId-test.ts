@@ -1,5 +1,7 @@
 import { Bus } from '@comunica/core';
-import { ActorRdfResolveHypermediaLinksStadGentReplaceId } from '../lib/ActorRdfResolveHypermediaLinksStadGentReplaceId';
+import {
+  ActorRdfResolveHypermediaLinksStadGentReplaceId,
+} from '../lib/ActorRdfResolveHypermediaLinksStadGentReplaceId';
 
 describe('ActorRdfResolveHypermediaLinksStadGentReplaceId', () => {
   let bus: any;
